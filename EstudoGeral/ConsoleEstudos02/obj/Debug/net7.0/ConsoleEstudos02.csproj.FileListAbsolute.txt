@@ -1,0 +1,15 @@
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\bin\Debug\net7.0\ConsoleEstudos02.exe
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\bin\Debug\net7.0\ConsoleEstudos02.deps.json
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\bin\Debug\net7.0\ConsoleEstudos02.runtimeconfig.json
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\bin\Debug\net7.0\ConsoleEstudos02.dll
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\bin\Debug\net7.0\ConsoleEstudos02.pdb
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.csproj.AssemblyReference.cache
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.AssemblyInfoInputs.cache
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.AssemblyInfo.cs
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.csproj.CoreCompileInputs.cache
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.dll
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\refint\ConsoleEstudos02.dll
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.pdb
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ConsoleEstudos02.genruntimeconfig.cache
+C:\Users\projetos06\source\repos\EstudoGeral\ConsoleEstudos02\obj\Debug\net7.0\ref\ConsoleEstudos02.dll
